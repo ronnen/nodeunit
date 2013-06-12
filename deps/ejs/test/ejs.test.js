@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var ejs = require('../')
+var ejs = require('.')
   , assert = require('assert');
 
 module.exports = {
